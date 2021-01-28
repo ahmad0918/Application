@@ -54,9 +54,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/tv_alamat"
         android:layout_centerHorizontal="true"
+        android:backgroundTint="@android:color/holo_blue_bright"
         android:text="Move"
-        android:textSize="15sp"
-        android:backgroundTint="@android:color/holo_blue_bright"/>
+        android:textSize="15sp" />
 
 
 </RelativeLayout>
